@@ -1,0 +1,105 @@
+C:\Users\Herbert\Desktop\Inverprova\Inverprova\bin\Debug\Inverprova.exe.config
+C:\Users\Herbert\Desktop\Inverprova\Inverprova\bin\Debug\Inverprova.exe
+C:\Users\Herbert\Desktop\Inverprova\Inverprova\bin\Debug\Inverprova.pdb
+C:\Users\Herbert\Desktop\Inverprova\Inverprova\obj\Debug\Inverprova.csprojResolveAssemblyReference.cache
+C:\Users\Herbert\Desktop\Inverprova\Inverprova\obj\Debug\Inverprova.cobrador.resources
+C:\Users\Herbert\Desktop\Inverprova\Inverprova\obj\Debug\Inverprova.Form1.resources
+C:\Users\Herbert\Desktop\Inverprova\Inverprova\obj\Debug\Inverprova.gerente.resources
+C:\Users\Herbert\Desktop\Inverprova\Inverprova\obj\Debug\Inverprova.Properties.Resources.resources
+C:\Users\Herbert\Desktop\Inverprova\Inverprova\obj\Debug\Inverprova.vendedor.resources
+C:\Users\Herbert\Desktop\Inverprova\Inverprova\obj\Debug\Inverprova.csproj.GenerateResource.Cache
+C:\Users\Herbert\Desktop\Inverprova\Inverprova\obj\Debug\Inverprova.exe
+C:\Users\Herbert\Desktop\Inverprova\Inverprova\obj\Debug\Inverprova.pdb
+C:\Users\Herbert\Desktop\Inverprova\Inverprova\obj\Debug\Inverprova.Facturacion.resources
+C:\Users\Herbert\Desktop\Inverprova\Inverprova\obj\Debug\Inverprova.ProductoF.resources
+C:\Users\Herbert\Desktop\Inverprova\Inverprova\obj\Debug\Inverprova.ClientesF.resources
+C:\Users\Herbert\Desktop\Inverprova\Inverprova\obj\Debug\Inverprova.Clientes.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\bin\Debug\Inverprova.exe.config
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.exe
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.pdb
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\bin\Debug\Inverprova.exe
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\bin\Debug\Inverprova.pdb
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.csprojResolveAssemblyReference.cache
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.Clientes.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.ClientesF.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.cobrador.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.Facturacion.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.Form1.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.gerente.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.ProductoF.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.Properties.Resources.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.vendedor.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.csproj.GenerateResource.Cache
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.BuscarCliente.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.BuscarProveedores.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.Proveedores.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.BuscarEmpleados.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.Empleadoss.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.BuscarProductos.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.Productos.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.ListadoFacturas.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.OrdenPedido.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.OrdenPedidoF.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.DepositoCliente.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.Depositos.resources
+C:\Users\Axel Landa\Downloads\hola\Inver\Inverprova\Inverprova\obj\Debug\Inverprova.Cobros.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\bin\Debug\Inverprova.exe.config
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.exe
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.pdb
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.csprojResolveAssemblyReference.cache
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.BuscarCliente.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.BuscarEmpleados.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.BuscarProductos.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.BuscarProveedores.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.Clientes.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.ClientesF.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.cobrador.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.Cobros.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.DepositoCliente.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.Depositos.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.Empleadoss.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.Facturacion.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.Form1.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.gerente.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.ListadoFacturas.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.OrdenPedido.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.OrdenPedidoF.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.ProductoF.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.Productos.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.Properties.Resources.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.Proveedores.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.vendedor.resources
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.csproj.GenerateResource.Cache
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\bin\Debug\Inverprova.exe
+C:\Users\ASPIRE\Downloads\Inverprova\Inverprova\Inverprova\bin\Debug\Inverprova.pdb
+C:\Inverprova\Inverprova\Inverprova\bin\Debug\Inverprova.exe.config
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.exe
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.csprojResolveAssemblyReference.cache
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.BuscarCliente.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.BuscarEmpleados.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.BuscarProductos.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.BuscarProveedores.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.Clientes.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.ClientesF.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.cobrador.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.Cobros.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.DepositoCliente.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.Depositos.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.Empleadoss.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.Facturacion.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.Form1.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.gerente.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.ListadoFacturas.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.OrdenPedido.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.OrdenPedidoF.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.ProductoF.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.Productos.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.Properties.Resources.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.Proveedores.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.vendedor.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.csproj.GenerateResource.Cache
+C:\Inverprova\Inverprova\Inverprova\bin\Debug\Inverprova.exe
+C:\Inverprova\Inverprova\Inverprova\bin\Debug\Inverprova.pdb
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.pdb
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.RegistroEmpleados.resources
+C:\Inverprova\Inverprova\Inverprova\obj\Debug\Inverprova.BusquedaEmpleados.resources
